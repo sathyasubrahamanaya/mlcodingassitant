@@ -1,0 +1,6 @@
+langchain_groq
+langchain
+crewai
+crewai[tools]
+streamlit
+dot_env
