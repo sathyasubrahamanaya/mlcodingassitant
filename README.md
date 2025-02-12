@@ -6,7 +6,7 @@ tools and Groq APi's. you can upload any csv file and generate code or some anal
 
 ## Installation
 
-Install my-project with npm
+
 
 ```powershell
   python -m venv env
