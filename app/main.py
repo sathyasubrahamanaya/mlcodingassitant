@@ -36,7 +36,7 @@ def main():
         st.session_state.dataframe = None
 
     # Load Groq API key from secrets
-    groq_api_key = "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"
+    groq_api_key = "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"
     os.environ["GROQ_API_KEY"] = groq_api_key
 
     # Model Selection

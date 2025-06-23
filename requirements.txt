@@ -1,6 +1,7 @@
-langchain_groq
+# requirements.txt
+
+langchain-groq
 langchain
 crewai
-crewai[tools]
+crewai-tools
 streamlit
-dot_env
